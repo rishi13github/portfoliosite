@@ -207,6 +207,8 @@ button:hover{
     margin-top: 40px;
     text-align:right;
     margin-right: 30px;
+    text-decoration:none;
+    color:white;
 }
 .callme{
     color: white;
